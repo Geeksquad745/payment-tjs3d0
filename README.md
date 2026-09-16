@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · ROMv4ayk -->
-## Notification 1/2
-Round: Round 1
-To: nishal_11@hotmail.com, nishandkaren@rogers.com
-At: 2026-09-16 19:42:15
-Id: ROMv4ayk
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: njere@yahoo.com, njm_75062@yahoo.com
+At: 2026-09-16 19:42:29
+Id: UytlU0Er
